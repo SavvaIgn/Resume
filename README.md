@@ -1,15 +1,18 @@
 # Resume
-CV
-SAVVA IGNATOV
-Claremont, CA | 909-847-3567 | signatov@hmc.edu
- EDUCATION
-Harvey Mudd College (CA, USA)
-● Expected to graduate: May 2025
-● Bachelor of Science, Computer Science and Mathematics
-Highgate (London, UK)
-● Graduated: March 2021
-● 4.0 GPA
-● 4 A level diploma: Biology, Chemistry, Mathematics and Physics
+<html>
+<head>
+<title>SAVVA IGNATOV</title>
+<header>Claremont, CA | 909-847-3567 | signatov@hmc.edu<header>
+</head>
+<h1> EDUCATION </h1>
+<ul>
+<li>Harvey Mudd College (CA, USA)
+<li>● Expected to graduate: May 2025
+<li>● Bachelor of Science, Computer Science and Mathematics
+<li>Highgate (London, UK)
+<li>● Graduated: March 2021
+<li>● 4.0 GPA
+<li>● 4 A level diploma: Biology, Chemistry, Mathematics and Physics
 Relevant Coursework (*currently enrolled in)
 Intro to Computer science, Discrete Mathematics, Linear Algebra, Single and Multivariable Calculus, Principles of Computer Science*, Differential Equations*, Engineering Systems*
 PROJECTS
