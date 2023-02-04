@@ -11,9 +11,9 @@ Harvey Mudd College (CA, USA)
 Highgate (London, UK)
 <li>Graduated: March 2021
 <li>4.0 GPA
-<li>4 A level diploma: Biology, Chemistry, Mathematics and Physics<p>
+<li>4 A level diploma: Biology, Chemistry, Mathematics and Physics<br>
 <h4>Relevant Coursework (*currently enrolled in)<h4><br>
-Intro to Computer science, Discrete Mathematics, Linear Algebra, Single and Multivariable Calculus, Principles of Computer Science*, Differential Equations*, Engineering Systems*<p>
+Intro to Computer science, Discrete Mathematics, Linear Algebra, Single and Multivariable Calculus, Principles of Computer Science*, Differential Equations*, Engineering Systems*<br><br><br>
 <h3>PROJECTS<h3>
 <li>SNAKE Game for Computer Science Project November 2022
 Divided big program into multiple classes using design pattern of Model-View-Controller<br>
@@ -32,12 +32,12 @@ Rocamar<br>
 Manipulated simulated data from CERN by altering different characteristics in a C++
 platform to identify the Higgs boson particle<br>
 Grouped information into powerpoint presentation to be presented to Queen Mary
-University<p>
+University<br>
 <h3>SKILLS<h3>
 <li>Fluent in English, Spanish, French and Russian
 <li>Basic German and Catalan
 <li>Intermediate Python and Java
-<li>Basic Racket<p>
+<li>Basic Racket<br>
 <h3>Code for snake game<h3>
 
 import java.awt.Color;
