@@ -195,11 +195,6 @@ class SpampedeData {
 	/**
 	 * Accesses a cell at a particular location.
 	 * 
-	 * <p>
-	 * This method should really be private. We make it public to allow our unit
-	 * tests to use it, but it should not be called from SpampedeBrain or
-	 * SpampedeDisplay.
-	 * </p>
 	 * 
 	 * @param r - the row to access, between 0 and numRows-1 inclusive
 	 * @param c - the column to access, between 0 and numCols-1 inclusive
