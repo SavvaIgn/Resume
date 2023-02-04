@@ -1,7 +1,7 @@
 # Resume
 <html>
 <head>
-<title>SAVVA IGNATOV</title>
+SAVVA IGNATOV
 <header>Claremont, CA | 909-847-3567 | signatov@hmc.edu<header>
 </head>
 <h3> EDUCATION </h3>
