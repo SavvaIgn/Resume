@@ -14,7 +14,7 @@
 <li>C++
 <li>Racket<br>
 
-<header>You can reach me here<header>
+<header>You can reach me here:<header><br>
 +1 909-847-3567 | signatov@hmc.edu	| https://www.linkedin.com/in/savva-ignatov/
 
 
