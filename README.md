@@ -1,4 +1,4 @@
-# Resume
+
 <html>
 <head>
 <header>Hi! My name is Savva Ignatov<header><br>
@@ -10,7 +10,7 @@
 <header>Coding Languages<header>
 
 <li>Python
-<li>Javascript
+<li>Java
 <li>C++
 <li>Racket<br>
 
